@@ -1,5 +1,5 @@
 # BMI Calculator
-# BMI Calculator
+
 
 This is a simple Body Mass Index (BMI) calculator implemented in Java.
 
@@ -29,4 +29,4 @@ While this application serves its purpose, there are several improvements that c
 - Implementing a more modern and visually appealing user interface using libraries like JavaFX.
 - Adding the ability to save past results for tracking changes over time.
 
-Feel free to contribute to this project and make it better!
+Feel free to contribute to this project and make it better! 😊
